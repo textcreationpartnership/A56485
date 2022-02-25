@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A methode to gain satisfaction in religion proposed occasionally in a letter to a friend / J.P. Philologos.</title>
+            <author>J. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56485</idno>
+            <idno type="STC">Wing P59</idno>
+            <idno type="STC">ESTC R22480</idno>
+            <idno type="EEBO-CITATION">12302046</idno>
+            <idno type="OCLC">ocm 12302046</idno>
+            <idno type="VID">59165</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56485)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59165)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 923:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A methode to gain satisfaction in religion proposed occasionally in a letter to a friend / J.P. Philologos.</title>
+                  <author>J. P.</author>
+               </titleStmt>
+               <extent>[2], 10  p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.M. for Barber Tooth ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England.</term>
+               <term>Faith --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59165:1" rendition="simple:additions"/>
+            <p>A METHODE To Gain Satisfaction IN RELIGION.</p>
+            <p>Propoſed Occaſionally in a <hi>Letter</hi> to a FRIEND.</p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <bibl>Hierocles.</bibl>
+            </q>
+            <p>By <hi>J. P.</hi> Philologos.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. M.</hi> for <hi>Barber Tooth</hi> at the <hi>White-Horſe</hi> by <hi>York-Houſe</hi> in the <hi>Strand,</hi> 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:59165:2"/>
+            <pb n="1" facs="tcp:59165:2"/>
+            <head>
+               <hi>March</hi> 12. 1672/3.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>NO ſooner did ſleep this morning peep out of the door of my Senſes, but you opened the door of my Chamber, about the time when the uſhering beams of the Sun began to guild our Heavens: my vi<g ref="char:EOLhyphen"/>gilant Soul then taking her place to ac<g ref="char:EOLhyphen"/>tuate all my faculties, ſhe no ſooner darted out a ſhort Ejaculation to her Maker, but what was caſually diſ<g ref="char:EOLhyphen"/>courſed of laſt night, was preſented to my thoughts: I conſidered how uncouth and ſtrang that very methode of ſearching after the truths of Religion ſeem'd to you, which to me hath been the Pool Star to direct my trem<g ref="char:EOLhyphen"/>bling mind, and from which no other Arguments (I could yet meet with) could ever entice my Reaſon to make any variation: which made me again reflect, that God is as much to be admired for the various genius of men, as for their different Phyſiognomy: that there may be Garments of divers faſhions cut out of one peice of Stuff: the ſame faith may be held upon different Rati<g ref="char:EOLhyphen"/>otinations: But ſince, <hi>Sir,</hi> by this method I reaped ſo great ſatisfaction my ſelf, I could not chooſe (out of a ſence of your zealous enquiery after the ſame truths,
+<pb n="2" facs="tcp:59165:3"/>
+and your ſeeming Conceſſions to them) but to offer theſe, whereby my meaning may be more intelligible, Diſcourſings being often liable to miſapprehenſions: My Relative Reſpect due to you hath been a further en<g ref="char:EOLhyphen"/>forcement to acquaint you, with what hath proved ſo ſatisfactory to me, though not ſo methodically, as (per<g ref="char:EOLhyphen"/>haps) I might have done, if I had took more time; or ſo ſtrongly, as if I had had the conveniency of thoſe helps, I have ſometimes had: However, upon the aforeſaid Conſiderations, I preſent you with the fol<g ref="char:EOLhyphen"/>lowing Severalls.</p>
+            <p n="1">(1) I at firſt conſidered with my ſelf, that all <hi>Super<g ref="char:EOLhyphen"/>ſtructures</hi> muſt needs be ſandy and weak, whoſe foun<g ref="char:EOLhyphen"/>dation is not ſurely layed: And he that deſires to be ſatisfied in <hi>Religion,</hi> ought to begin with ſearching out, and eſtabliſhing the <hi>grounds</hi> on which <hi>Religion</hi> is built.</p>
+            <p n="2">(2) There are two things from whence the <hi>Exiſtence</hi> of <hi>Religion</hi> is to be concluded, viz. <hi>Revelation</hi> and <hi>Reaſon;</hi> by <hi>Reaſon</hi> I underſtand a natural inbread Prin<g ref="char:EOLhyphen"/>ciple of Truth wrought upon the Soul by <hi>Revelation,</hi> the Mind or Will of God comming immediately from himſelf, or from thoſe who were divinely inſpired by him.</p>
+            <p n="3">(3.) The <hi>Being</hi> of a <hi>God</hi> is to be preſuppoſed to <hi>Faith</hi> in <hi>Revelation: Revelation</hi> ſuppoſes the <hi>being</hi> of a <hi>God,</hi> but cannot prove it: For we can have no ſecurity, that the <hi>Revelation</hi> is true, till we are aſſured it is from <hi>God.</hi>
+            </p>
+            <p n="4">(4.) The Fundamental Proof of the <hi>Being</hi> of a <hi>God,</hi> is <hi>Right Reaſon:</hi> the <hi>Apoſtle</hi> acknowledgeth the <hi>Exiſt<g ref="char:EOLhyphen"/>ence</hi> of <hi>God</hi> to be proved by thoſe inbred Notices
+<pb n="3" facs="tcp:59165:3"/>
+which <hi>God</hi> hath <hi>naturally</hi> planted in the Soules of <hi>all</hi> mankind, the <hi>Heathen</hi> not excepted, <hi>Rom.</hi> 1.19. what matter the Beauty, Order and uſefulneſs of the Crea<g ref="char:EOLhyphen"/>tures do afford us, for <hi>Religious</hi> acknowledgment, is natu<g ref="char:EOLhyphen"/>rally <hi>rational:</hi> And whatſoever <hi>Revelation</hi> yeilds us for the ſame, is as truly <hi>rational</hi> as that: for when we are once convinc'd of the <hi>Divine</hi> Authority of the <hi>Revelation,</hi> meer <hi>Reaſon</hi> will force us to its aſſent. Why <hi>God</hi> is to be believed, when he hath <hi>Revealed</hi> any thing, is not a Task for a <hi>Rational</hi> Creature, however for any that owne <hi>Chriſtianity.</hi>
+            </p>
+            <p n="5">(5.) So that the <hi>firſt</hi> and main thing, that my inqui<g ref="char:EOLhyphen"/>ſitive <hi>Mind</hi> ſought to be ſatisfied in, was to aſſure <hi>my ſelf</hi> of the <hi>Divine Authority</hi> of <hi>S. Scripture,</hi> which was <hi>Divine Revelation;</hi> what it was, <hi>Chriſt</hi> hath taught:</p>
+            <p n="6">(6.) Though <hi>Scripture</hi> be Sufficient for its end, yet <hi>Reaſon</hi> muſt be preſuppoſed to it: As I take <hi>Reaſon</hi> (which is nothing elſe but another part of <hi>Gods word</hi>) to be the <hi>foundation</hi> of <hi>Religion,</hi> ſo I take <hi>Tradition</hi> (which is the Univerſal Conſent of thoſe Ages imme<g ref="char:EOLhyphen"/>diately ſucceeding the Apoſtles, before the Emperours turn'd Chriſtian) to be hugely ſerviceable, if not ab<g ref="char:EOLhyphen"/>ſolutely neceſſary to <hi>inform</hi> and <hi>rectify</hi> my <hi>Reaſon,</hi> as being the only means to convince <hi>my Reaſon</hi> of the <hi>Divine Authority</hi> of that <hi>Book</hi> we call the <hi>Bible:</hi> and I did not think my ſelf bound to believe what is there declared, till I had Reaſon to think that <hi>God</hi> was the <hi>Revealer,</hi> otherwiſe it had not been <hi>Faith,</hi> but vain <hi>Credulity.</hi>
+            </p>
+            <p n="7">(7.) Therefore applying my ſelf to the <hi>Teſt</hi> of <hi>Tra<g ref="char:EOLhyphen"/>dition,</hi> I became thereby convinc'd and perſwaded, that the Books which we call the <hi>Bible,</hi> were the
+<pb n="4" facs="tcp:59165:4"/>
+               <hi>only-truly-divine Revelation,</hi> as they are numbered in the 6th. <hi>Article</hi> of <hi>Religion,</hi> ſet forth by the <hi>Church</hi> of <hi>England,</hi> 1562. So that by the care of thoſe that lived at the Fountain-head of Chriſtianity (God by his Pro<g ref="char:EOLhyphen"/>vidence ſo diſpoſing and preſerving it through all ſuc<g ref="char:EOLhyphen"/>ceeding Ages) I came to know the <hi>Word of God:</hi> not knowing of any other <hi>way</hi> left to yeild me the like ſatisfaction.</p>
+            <p n="8">(8.) Now being to be fully perſwaded of the <hi>Divine Authority</hi> of the <hi>Bible,</hi> my next undertaking was to ſa<g ref="char:EOLhyphen"/>tisfie my ſelf how I ſhould come to underſtand the <hi>Right Senſe,</hi> or be aſſured of the <hi>true meaning</hi> of the <hi>Text.</hi> That they are the <hi>Words</hi> of <hi>God,</hi> my <hi>Reaſon</hi> aſ<g ref="char:EOLhyphen"/>ſents; and that which I was next to enquire after, was, how to be aſſured of their <hi>true meaning.</hi>
+            </p>
+            <p n="9">(9.) And firſt I concluded with my ſelfe Negative<g ref="char:EOLhyphen"/>ly, That the <hi>Letter</hi> alone was not a ſufficient means to aſſure me of the true <hi>Senſe</hi> of the <hi>Scripture.</hi> Since (not to inſiſt, that if it ſhould be denied in whole or in part (as moſt of the <hi>Books</hi> of the new Teſtament have been by ſome or other) the <hi>Letter</hi> could not evidence it ſelf) the experience of ſo many erring thouſands is a lamen<g ref="char:EOLhyphen"/>table, but a convincing Proof of it. As to inſtance, let any unprejudiced Perſon ſet himſelf impartially to ex<g ref="char:EOLhyphen"/>amine ſeverally and by themſelves, the Interpretations and Gloſſes, the <hi>Independents, Presbyterians, Papiſts, Socinians,</hi> &amp;c. do ſeverally give upon the <hi>Letter</hi> of the <hi>Text.</hi> And they ſhall every one fairly ſeem to give a likely <hi>Sence</hi> anſwerable to their ſeveral <hi>Hyphothſes</hi> of their <hi>Reli<g ref="char:EOLhyphen"/>gion;</hi> &amp; perhaps, for ought as ſome (though unintereſſed) can collect from the <hi>Letter,</hi> only one poſſibly appears as probable as the other: And the <hi>Reaſon</hi> why each particular
+<pb n="5" facs="tcp:59165:4"/>
+               <hi>Perſwaſion</hi> ſo dearly eſpouſes its own Interpretations, ſeems to be the primary <hi>Tincture,</hi> which (at firſt being imbibed for want of a more <hi>Rational</hi> Foundation) is uncontroulably retain'd for ever after, containing a pre<g ref="char:EOLhyphen"/>judice againſt all other <hi>Senſes</hi> whatſoever: And it can<g ref="char:EOLhyphen"/>not be denied, but every one of theſe are really per<g ref="char:EOLhyphen"/>ſwaded of the truth of their own meaning, ſince they profeſs to reverence <hi>Gods-Word</hi> as much as any: read it frequently, ſtudy it diligently, quote it conſtantly, and zealouſly defend the ſenſe which they conceive of it, ſo far; that many are even ready to die for it, not<g ref="char:EOLhyphen"/>withſtanding they all contradict one another, and that in <hi>Fundamental</hi> Points.</p>
+            <p n="10">(10.) Conſidering with my ſelf the endleſs <hi>Enthuſi<g ref="char:EOLhyphen"/>aſms,</hi> and <hi>Popiſh Phanattiſmes</hi> which are ſo furiouſly imitated by <hi>ſome</hi> amongſt us, I was on the other ſide fully convinc'd, that the light of the <hi>Private Spirit</hi> alone was no infallible <hi>Director</hi> in this caſe neither, ſince we ſee by too too ſad experience multitudes of thoſe to dif<g ref="char:EOLhyphen"/>fer one from another (as before) in eſſential points of <hi>Religion,</hi> as in the <hi>Trinity</hi> and <hi>Godhead</hi> of <hi>Chriſt,</hi> &amp;c. and yet every one affirming, that they are inſpired by that unerring <hi>Light,</hi> which leads them into all truth: and their Interpretations are all of them from the <hi>evi<g ref="char:EOLhyphen"/>dence,</hi> and <hi>Demonſtration</hi> of the <hi>Spirit.</hi> Now the cauſe of all this ſeemed to me to be nothing elſe but their fu<g ref="char:EOLhyphen"/>rious Rejecting of <hi>Reaſon,</hi> with the only means (in this caſe) to Rectify it, <hi>viz. Tradition,</hi> and their accepting inſteed thereof an inward <hi>ſelf-conviction</hi> (which is nothing elſe but a ſence or perſwaſion wrought gradually upon them by the ſtrength of their ſeveral <hi>Educations</hi>) to be a ſufficient perſwaſion to aſſure them
+<pb n="6" facs="tcp:59165:5"/>
+of the <hi>Divine Authority</hi> of <hi>S. Scripture,</hi> and of its <hi>ſenſe</hi> too: which is extreamly groundleſs and irrational, and the <hi>Mahumetans</hi> have as much to ſay for their <hi>Alcoran</hi> and <hi>Religion,</hi> as this comes to.</p>
+            <p n="11">(11.) Neither the <hi>Letter</hi> of <hi>Jeremias</hi> his Propheſy, nor that Portion of the <hi>Spirit</hi> which <hi>Daniel</hi> had beſtow<g ref="char:EOLhyphen"/>ed upon him was ſufficient to make him underſtand the Number of the years there mentioned, but we find there was ſomthing elſe neceſſary, <hi>Dan.</hi> 9.2. So that neither the <hi>Letter,</hi> nor the <hi>Light</hi> of the <hi>private Spirit</hi> a<g ref="char:EOLhyphen"/>lone being able to aſſure me of the true <hi>ſenſe</hi> of <hi>S. Scriptures,</hi> there needs but <hi>common Reaſon</hi> to diſcern that the ſame <hi>Rule</hi> (which I had for the <hi>Authority</hi> or <hi>Canon</hi> of the <hi>Word</hi> of <hi>God</hi> it ſelfe, if it be ſincerely followed according to <hi>Right-Reaſon</hi>) was the only ſuf<g ref="char:EOLhyphen"/>ficient means to aſſure me of its true <hi>meaning</hi> and <hi>ſenſe.</hi> It appear'd to me greatly rational to receive the <hi>ſenſe</hi> (as well as the <hi>Words</hi>) of <hi>S. Scriptures</hi> from thoſe, that were either contemporary with, or immediately ſuccee<g ref="char:EOLhyphen"/>ded, the Apoſtles: And in all controverſial points, this <hi>Rule</hi> hath proved to me the only ſatisfactory refuge I could ever yet meet with: It is the only means to con<g ref="char:EOLhyphen"/>vince my Judgment what Chriſt and his Apoſtles taught and practiſed, what was the Doctrine and Diſcipline of the Apoſtolick and Primitive Church.</p>
+            <p n="12">(12.) This <hi>Rule</hi> of <hi>Faith</hi> (if I may ſo call the means to know the true <hi>ſenſe</hi> of <hi>S. Scripture</hi>) will certainly convey down the true <hi>Faith</hi> unchang'd to all after A<g ref="char:EOLhyphen"/>ges: By which <hi>Touchſtone</hi> is to be tried, which is the true <hi>Church:</hi> For a <hi>Church</hi> is a Congregation of the <hi>Faithful,</hi> and the <hi>Faithful</hi> are thoſe which have the true <hi>Faith;</hi> If the true <hi>Faith</hi> cannot be had without
+<pb n="7" facs="tcp:59165:5"/>
+this <hi>Rule,</hi> then they only that have this <hi>Rule</hi> are the true <hi>Church.</hi>
+            </p>
+            <p n="13">(13.) Having found the <hi>Rule</hi> of <hi>Faith,</hi> there re<g ref="char:EOLhyphen"/>main'd to find out which body of men in the World do follow this <hi>Rule:</hi> For thoſe and only thoſe (I concei<g ref="char:EOLhyphen"/>ved) could be aſſured of the true <hi>meaning</hi> and <hi>ſenſe</hi> of <hi>S. Scripture,</hi> could only have the true <hi>Faith,</hi> could only be the <hi>true Church:</hi> My Zeal was on fier till I was ſatisfied that I was a member of that <hi>Catholick Church:</hi> whereas all the reſt of men in the World (ſince they have but fallible grounds of their <hi>Faith</hi>) cannot have <hi>true Faith,</hi> but <hi>Opinion</hi> only.</p>
+            <p n="14">(14.) I had a ſtrong preſumption, and indeed a firm aſſurance, that the <hi>Church</hi> of <hi>England</hi> doth hold her <hi>Doctrine</hi> and <hi>Diſcipline</hi> by this infallible <hi>Tenure,</hi> ſince She alone owns this <hi>Rule,</hi> and demonſtratively proves, that ſhe doth now ſtick by it; For I ſatisfied my ſelf, that her <hi>Doctrine</hi> and <hi>Diſcipline</hi> (which ſhe hath not been aſhamed to confeſs, but to evidence to the open veiw of the World in her <hi>Articles</hi> and <hi>Canons</hi>) is ſquared ac<g ref="char:EOLhyphen"/>cording to the Teſtimony of the <hi>Primitive Age,</hi> and un<g ref="char:EOLhyphen"/>muddied Fountain of <hi>Chriſtianity,</hi> and therefore I con<g ref="char:EOLhyphen"/>cluded her to be the <hi>true Church,</hi> and ſo to be poſſeſt both of the true <hi>Letter</hi> and <hi>ſence</hi> of <hi>S. Scripture.</hi> And if any particular <hi>Text</hi> be ambiguous, and perhaps not cleared by any <hi>Primitive Writter, She</hi> is in a capacity by the <hi>word</hi> written in her <hi>heart,</hi> viz. <hi>Right Reaſon,</hi> to aſſigne a <hi>ſenſe</hi> agreeable to the <hi>Rule</hi> of <hi>Faith,</hi> being aſſiſted by that infallible <hi>Guide</hi> which leads into all <hi>Truth.</hi>
+            </p>
+            <p n="15">(15.) Oh! how highly rational did it appear to me to bring the <hi>ſence</hi> of <hi>S. Scripture</hi> (where it ſeems du<g ref="char:EOLhyphen"/>bious) to the <hi>Apoſtolick Primitive ſenſe</hi> and <hi>Practice</hi> ra<g ref="char:EOLhyphen"/>ther
+<pb n="8" facs="tcp:59165:6"/>
+then to make it <hi>fadg</hi> to any preconceived <hi>Notion</hi> whatſoever. By which very conſideration, how eaſily might the fearful <hi>ſtirs</hi> about <hi>Controverſiall Points</hi> be a<g ref="char:EOLhyphen"/>voyded, &amp; how ſtrangely ſhort might the large <hi>Debates</hi> about the <hi>meaning</hi> of particular <hi>Texts</hi> become, and in what peace, quiet and Satisfaction might they end? What if the <hi>Letter</hi> of <hi>S. Scripture</hi> in the opinion of ſome doth ſeem as much to favour ſome other <hi>Doctrine</hi> or <hi>Diſcipline,</hi> as that of the <hi>Church</hi> of <hi>England:</hi> yet ſince it doth <hi>as fairely</hi> ſpeak (if not more manifeſtly, as is un<g ref="char:EOLhyphen"/>anſwerably proved by <hi>Judicious Hooker in his Eccleſiasti<g ref="char:EOLhyphen"/>call Policy</hi>) for <hi>that,</hi> as for any other among the <hi>many</hi> that are contended for: Methinks upon this very conſidera<g ref="char:EOLhyphen"/>tion, <hi>ſhe</hi> might be allow'd to ſtand (if not upon higher) yet upon as even termes, as any of the <hi>other:</hi> But when I ſee the <hi>Church</hi> of <hi>England</hi> to write ſo neerly after the <hi>Original Coppy,</hi> to teach and practice the ſame things, which thoſe <hi>firſt</hi> and <hi>unmuddied times</hi> did; <hi>this, this</hi> very conſideration clearly turns the <hi>Scale,</hi> and ſo alters the <hi>caſe,</hi> that <hi>ſhe</hi> (if but permitted to be weighed in the ballance of <hi>common Reaſon</hi>) would prove too pondrous for any <hi>Rival:</hi> there was never yet any pretended <hi>Church,</hi> that ever came in competition with her, but was found too light.</p>
+            <p n="16">(16.) By the help of theſe Conſiderations, I be<g ref="char:EOLhyphen"/>came clearly ſenſible, that the eye of the underſtand<g ref="char:EOLhyphen"/>ing of thoſe, that urge, that nothing ought to be eſtabliſhed in the <hi>Church of God</hi> more then what is <hi>poſitively</hi> or <hi>interminis</hi> commanded in the <hi>S. Scriptures,</hi> did look through a <hi>fallacious Proſpective.</hi> Beſides, the <hi>Jewiſh Church</hi> (the Particulars of whoſe Worſhip were ſo exactly particularized in their <hi>Revelation,</hi>
+               <pb n="9" facs="tcp:59165:6"/>
+that with far greater <hi>reaſon,</hi> they might have pre<g ref="char:EOLhyphen"/>tended ſuch an aſſertion) did not think it ſelf bound up in ſuch ſtrict limits, as not to have power to re<g ref="char:EOLhyphen"/>cede from the <hi>Letter</hi> of their <hi>Law,</hi> and therefore (as occaſion offered) did ordain and practice many things which their <hi>Law</hi> did not enjoyn, yet had the <hi>open approbation</hi> of <hi>God</hi> himſelf: As for inſtance (1) their Building of <hi>Tabernacles,</hi> (2) their hours of <hi>Prayer,</hi> (3) their <hi>ſections</hi> of the Law and the Prophets, (4) their keeping the <hi>Paſsover,</hi> 14 dayes by <hi>Hezechias,</hi> when as the Law enjoyned but 7 dayes, (5) their <hi>feaſt of Purim</hi> by Eſther, (6) their <hi>Feaſt</hi> of <hi>Dedication</hi> by the Mac<g ref="char:EOLhyphen"/>cabees, (7) their <hi>Faſt</hi> of 4, 5, and 10 months under the Captivity. (8) their uſe of <hi>baptiſing</hi> Proſelites, (9) their <hi>Waſhing</hi> of <hi>feet</hi> before the <hi>Paſsover,</hi> imitated by our <hi>Saviour,</hi> &amp;c. Theſe things conſidered; I knew not why the <hi>Chriſtian Church</hi> ſhould be deprived of the like <hi>Priviledge:</hi> Beſides, there being many things, for which though there are no indiſputably expreſs texts, yet finding them allowed, enjoyned, and prac<g ref="char:EOLhyphen"/>tiſed by the <hi>Apoſtles,</hi> or their <hi>Immediate Succeſſors,</hi> I thought my ſelf obliged to receive them, not know<g ref="char:EOLhyphen"/>ing but they might have, nay <hi>rationally</hi> concluding that they muſt have, <hi>Divine Authority:</hi> Such as, the <hi>Change</hi> of the <hi>Sabboth</hi> from <hi>Saturday</hi> to <hi>Sunday:</hi> the <hi>Baptiſing</hi> of <hi>Infants:</hi> the uſe of <hi>Godfathers</hi> and <hi>Godmo<g ref="char:EOLhyphen"/>thers,</hi> as <hi>Stipulatores: Confirmation Publick Lythurges</hi> (as the <hi>Greek Lythurgie</hi> compoſed by St. <hi>Paul; the In<g ref="char:EOLhyphen"/>dian</hi> by St. <hi>Thomas:</hi> the <hi>Ethiopian</hi> by S. <hi>Mark:</hi> the <hi>Muſcovian</hi> by St. <hi>Andrew,</hi> &amp;c.) the <hi>Obſervation</hi> Anni<g ref="char:EOLhyphen"/>verſary of <hi>Christs Nativity,</hi> and of other <hi>Feasts</hi> and <hi>Fasts, the Hierarchichall Policy</hi> of <hi>Church</hi> Government, and the like.</p>
+            <p n="17">
+               <pb n="10" facs="tcp:59165:7"/>(17.) As theſe Conſiderations have been helpful to build me up to a firm Settlement in <hi>Religion,</hi> ſo I have hopes, that they will have the like influence on all, unleſs it be either on <hi>thoſe</hi> of Rome, or on <hi>others</hi> among our ſelves, who being brought up to a certain <hi>Sect,</hi> and addicted to a particular <hi>Party,</hi> have ſo irreſiſtably eſpouſed certain <hi>Opinions,</hi> that right or wrong they are reſolved not to bring them to <hi>this Teſt:</hi> And ſuch perſons are in a dangerous condition: Strangers to Chriſtianity, Turks and Infidells may ſooner be perſwaded to give a <hi>Bill</hi> of <hi>Divorſe</hi> to their <hi>whoring</hi> after ſtrang Inven<g ref="char:EOLhyphen"/>tions, and be ſooner gayn'd to make uſe of their <hi>Reaſons</hi> (the only <hi>Diſtrimination</hi> between <hi>men</hi> and <hi>Bruites</hi>) then ſuch as theſe.</p>
+            <p>Laſtly, To conclude with the Reſolution of a Quere, which (it may be, is here as neceſſary, as it) is likely to be made to the aforeſaid Method, <hi>viz:</hi> If <hi>Reaſon</hi> be the <hi>Foundation</hi> of <hi>Religi<g ref="char:EOLhyphen"/>on,</hi> and <hi>Tradition</hi> be abſolutely neceſſary to <hi>rectify</hi> it; how ſhall <hi>illiterate</hi> perſons be ſatisfied, whoſe educations, and ſta<g ref="char:EOLhyphen"/>tions in the World, do incapacitate them to be informed by <hi>ſuch means?</hi> The Anſwer is this, there is no man, though never ſo <hi>illiterate,</hi> if he will be <hi>true</hi> to himſelf, and lay aſide all manner of prejudice of <hi>imbibed Principles,</hi> and <hi>Parties, &amp;c.</hi> But will eaſily confeſs the aforeſaid <hi>Hypotheſis</hi> in general to be conſentaneous to his <hi>Reaſon;</hi> and though he is not in a capacity himſelf to ſearch <hi>Tradition</hi> for the truth of things, yet he muſt acknow<g ref="char:EOLhyphen"/>ledg that the <hi>only</hi> way left for his ſatisfaction, is to have re<g ref="char:EOLhyphen"/>courſe to <hi>that</hi> ſort of People in the world (and to <hi>only them</hi>) that hold <hi>that Method<g ref="char:punc">▪</g>
+               </hi> And (as I have before hinted) the <hi>Church</hi> of <hi>England</hi> are they, and <hi>only</hi> they, <hi>that</hi> build upon this <hi>Rational foundation.</hi> So that, that <hi>Faith</hi> is to be received from thence, which, being hatched by <hi>Gods H. Spirit</hi> in mens hearts, brought forth by <hi>Reading,</hi> cheriſhed by <hi>hearing</hi> of <hi>the Word,</hi> ſealed by <hi>Baptiſm,</hi> and ſtrongly confirmed by their partaking of the <hi>Sacraments,</hi> will prove the only <hi>Saving Faith.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
